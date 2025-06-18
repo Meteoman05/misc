@@ -1,2 +1,2 @@
 print("Okey result 37!")
-secret = 37
+secret = 42
